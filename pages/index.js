@@ -12,7 +12,6 @@ import {
 
 import NFT from '../artifacts/contracts/NFT.sol/NFT.json'
 import Market from '../artifacts/contracts/NFTMarket.sol/NFTMarket.json'
-import { loadDefaultErrorComponents } from 'next/dist/server/load-components'
 
 
 export default function Home() {
